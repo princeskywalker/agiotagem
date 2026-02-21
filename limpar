@@ -1,0 +1,18 @@
+400.14
+01066681376 erro
+55855512649 erro
+41197275215 erro
+00004338618	erro
+00317872150 [getServerTimestamp] ERRO AO REQUISITAR TIMESTAMP
+00004338618 impossivel
+00582308151 erro get
+
+53209028591 180
+04316306235 400
+63675943291 500
+
+
+63675943291
+
+Solicitação de envio efetuada com sucesso{"conta":"954801306","ic_fe_bloqueio_auxilio_emergencial":"N","ic_fe_conta_recebe_auxilio_emergencial_2021":"S","limite":0.00,"saldo":750.06,"saldoBloqueado":0.00,"saldoLimiteDisponivel":0.00,"saldoLimiteUtilizado":0.00,"saldoTotal":750.06,"saldo_reserva_restrito":0.06,"saldo_reserva_social":750.00}
+olicitação de envio efetuada com sucesso{"conta":"965779551","ic_fe_bloqueio_auxilio_emergencial":"N","ic_fe_conta_recebe_auxilio_emergencial_2021":"S","limite":0.00,"saldo":50.00,"saldoBloqueado":0.00,"saldoLimiteDisponivel":0.00,"saldoLimiteUtilizado":0.00,"saldoTotal":50.00,"saldo_reserva_restrito":0.00,"saldo_reserva_social":50.00}
